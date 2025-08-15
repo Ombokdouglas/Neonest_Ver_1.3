@@ -1,11 +1,4 @@
-22698382290881235
-25A_Terminal_Block
-TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm
-Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX
-Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
-0
-2
-2
+22691366645928540
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93043,24 +93036,3 @@ Varistor VF
 0
 2
 2
-libs
-TerminalBlock_Dinkle_DT-55-B01X-02_P10.00mm
-Dinkle DT-55-B01X Terminal Block  pitch 10.00mm https://www.dinkle.com/en/terminal/DT-55-B01W-XX
-Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
-0
-2
-2
-neonest_logo
-neonest_logo
-
-
-0
-0
-0
-sd_card_holder
-sd_card
-693071010811-6
-Connector
-0
-12
-12
